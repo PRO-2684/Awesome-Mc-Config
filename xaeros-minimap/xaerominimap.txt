@@ -55,7 +55,7 @@ waypointOpacityMap:90
 hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
-showLightLevel:0
+showLightLevel:4
 renderLayerIndex:1
 crossDimensionalTp:true
 showTime:1
