@@ -1,4 +1,6 @@
 # 🗺️ Xaero's Minimap
+> > It is recommended to use this mod together with minihud.
+
 ## 🔗 Mod link
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
